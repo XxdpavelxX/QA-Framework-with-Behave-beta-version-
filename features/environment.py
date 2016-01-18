@@ -60,3 +60,4 @@ def after_all(context):
      "failed_scenarios_screenshots")
             #os.rmdir("failed_scenarios_screenshots")
             print("Executing after all")
+'''test'''
